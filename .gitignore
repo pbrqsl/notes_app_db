@@ -1,0 +1,6 @@
+venv
+*.db
+sandbox.*
+__pycache__
+.idea
+
